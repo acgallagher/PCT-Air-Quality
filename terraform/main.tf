@@ -13,18 +13,13 @@ provider "aws" {
   region = "us-east-1"
 }
 
-resource "aws_s3_bucket" "PCT-Air-Quality" {
+resource "aws_s3_bucket" "pct-air-quality" {
 
-  bucket = "PCT-Air-Quality"
-
-  versioning = {
-    enabled = true
-  }
-
+  bucket = "pct-air-quality"
 
 }
 
-resource "aws_redshift_cluster" "PCT-Cluster" {
+resource "aws_redshift_cluster" "pct-cluster" {
   cluster_identifier = "pct-cluster"
   database_name      = "pct_air_quality"
   master_username    = "admin"
