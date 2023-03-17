@@ -132,6 +132,7 @@ dmypy.json
 #Project specific
 /terraform/.terraform
 /terraform/.terraform.lock.hcl
+/terraform/terraform*
 
 data/*
 venv
