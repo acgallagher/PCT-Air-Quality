@@ -1,0 +1,2327 @@
+[
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Bakersfield",
+        "StateCode": "CA",
+        "Latitude": 35.3577,
+        "Longitude": -119.0046,
+        "ParameterName": "O3",
+        "AQI": 30,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Bakersfield",
+        "StateCode": "CA",
+        "Latitude": 35.3577,
+        "Longitude": -119.0046,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Bakersfield",
+        "StateCode": "CA",
+        "Latitude": 35.3577,
+        "Longitude": -119.0046,
+        "ParameterName": "PM10",
+        "AQI": 7,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Bremerton-Silverdale-Bainbridge Island",
+        "StateCode": "WA",
+        "Latitude": 47.64,
+        "Longitude": -122.647,
+        "ParameterName": "PM2.5",
+        "AQI": 2,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Concord",
+        "StateCode": "CA",
+        "Latitude": 37.97,
+        "Longitude": -122.03,
+        "ParameterName": "O3",
+        "AQI": 22,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Concord",
+        "StateCode": "CA",
+        "Latitude": 37.97,
+        "Longitude": -122.03,
+        "ParameterName": "PM2.5",
+        "AQI": 14,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "NW San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.1038,
+        "Longitude": -117.6291,
+        "ParameterName": "O3",
+        "AQI": 36,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "NW San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.1038,
+        "Longitude": -117.6291,
+        "ParameterName": "PM2.5",
+        "AQI": 17,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "NW San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.1038,
+        "Longitude": -117.6291,
+        "ParameterName": "PM10",
+        "AQI": 2,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "SW San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.0017,
+        "Longitude": -117.6585,
+        "ParameterName": "O3",
+        "AQI": 37,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "SW San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.0017,
+        "Longitude": -117.6585,
+        "ParameterName": "PM2.5",
+        "AQI": 17,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "SW San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.0017,
+        "Longitude": -117.6585,
+        "ParameterName": "PM10",
+        "AQI": 2,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "C San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.113,
+        "Longitude": -117.371,
+        "ParameterName": "O3",
+        "AQI": 36,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "C San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.113,
+        "Longitude": -117.371,
+        "ParameterName": "PM2.5",
+        "AQI": 17,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "C San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.113,
+        "Longitude": -117.371,
+        "ParameterName": "PM10",
+        "AQI": 3,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "E San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.0588,
+        "Longitude": -117.1477,
+        "ParameterName": "O3",
+        "AQI": 35,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "E San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.0588,
+        "Longitude": -117.1477,
+        "ParameterName": "PM2.5",
+        "AQI": 3,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "E San Bernardino",
+        "StateCode": "CA",
+        "Latitude": 34.0588,
+        "Longitude": -117.1477,
+        "ParameterName": "PM10",
+        "AQI": 3,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "W San Bernardino M",
+        "StateCode": "CA",
+        "Latitude": 34.244,
+        "Longitude": -117.5328,
+        "ParameterName": "O3",
+        "AQI": 41,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "W San Bernardino M",
+        "StateCode": "CA",
+        "Latitude": 34.244,
+        "Longitude": -117.5328,
+        "ParameterName": "PM2.5",
+        "AQI": 17,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "W San Bernardino M",
+        "StateCode": "CA",
+        "Latitude": 34.244,
+        "Longitude": -117.5328,
+        "ParameterName": "PM10",
+        "AQI": 2,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "C San Bernardino M",
+        "StateCode": "CA",
+        "Latitude": 34.2413,
+        "Longitude": -117.2755,
+        "ParameterName": "O3",
+        "AQI": 41,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "C San Bernardino M",
+        "StateCode": "CA",
+        "Latitude": 34.2413,
+        "Longitude": -117.2755,
+        "ParameterName": "PM2.5",
+        "AQI": 8,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Big Bear Lake",
+        "StateCode": "CA",
+        "Latitude": 34.1734,
+        "Longitude": -116.8851,
+        "ParameterName": "O3",
+        "AQI": 41,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Big Bear Lake",
+        "StateCode": "CA",
+        "Latitude": 34.1734,
+        "Longitude": -116.8851,
+        "ParameterName": "PM2.5",
+        "AQI": 8,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Phelan",
+        "StateCode": "CA",
+        "Latitude": 34.425,
+        "Longitude": -117.5897,
+        "ParameterName": "O3",
+        "AQI": 38,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Phelan",
+        "StateCode": "CA",
+        "Latitude": 34.425,
+        "Longitude": -117.5897,
+        "ParameterName": "PM2.5",
+        "AQI": 9,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Phelan",
+        "StateCode": "CA",
+        "Latitude": 34.425,
+        "Longitude": -117.5897,
+        "ParameterName": "PM10",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Hesperia",
+        "StateCode": "CA",
+        "Latitude": 34.4163,
+        "Longitude": -117.2855,
+        "ParameterName": "O3",
+        "AQI": 34,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Hesperia",
+        "StateCode": "CA",
+        "Latitude": 34.4163,
+        "Longitude": -117.2855,
+        "ParameterName": "PM10",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Trona",
+        "StateCode": "CA",
+        "Latitude": 35.7744,
+        "Longitude": -117.3722,
+        "ParameterName": "PM10",
+        "AQI": 4,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Victorville",
+        "StateCode": "CA",
+        "Latitude": 34.5108,
+        "Longitude": -117.3255,
+        "ParameterName": "O3",
+        "AQI": 33,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Victorville",
+        "StateCode": "CA",
+        "Latitude": 34.5108,
+        "Longitude": -117.3255,
+        "ParameterName": "PM2.5",
+        "AQI": 9,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Victorville",
+        "StateCode": "CA",
+        "Latitude": 34.5108,
+        "Longitude": -117.3255,
+        "ParameterName": "PM10",
+        "AQI": 2,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Barstow",
+        "StateCode": "CA",
+        "Latitude": 34.8938,
+        "Longitude": -117.0244,
+        "ParameterName": "O3",
+        "AQI": 35,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Barstow",
+        "StateCode": "CA",
+        "Latitude": 34.8938,
+        "Longitude": -117.0244,
+        "ParameterName": "PM10",
+        "AQI": 5,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Twentynine Palms",
+        "StateCode": "CA",
+        "Latitude": 34.3167,
+        "Longitude": -116.0944,
+        "ParameterName": "O3",
+        "AQI": 35,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Twentynine Palms",
+        "StateCode": "CA",
+        "Latitude": 34.3167,
+        "Longitude": -116.0944,
+        "ParameterName": "PM10",
+        "AQI": 5,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Rio Vista",
+        "StateCode": "CA",
+        "Latitude": 38.2183,
+        "Longitude": -121.77,
+        "ParameterName": "PM2.5",
+        "AQI": 37,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Klamath Falls",
+        "StateCode": "OR",
+        "Latitude": 42.1904,
+        "Longitude": -121.7313,
+        "ParameterName": "PM2.5",
+        "AQI": 25,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Red Hills",
+        "StateCode": "CA",
+        "Latitude": 35.65,
+        "Longitude": -120.38,
+        "ParameterName": "O3",
+        "AQI": 40,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Paso Robles",
+        "StateCode": "CA",
+        "Latitude": 35.63,
+        "Longitude": -120.66,
+        "ParameterName": "O3",
+        "AQI": 45,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Paso Robles",
+        "StateCode": "CA",
+        "Latitude": 35.63,
+        "Longitude": -120.66,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Paso Robles",
+        "StateCode": "CA",
+        "Latitude": 35.63,
+        "Longitude": -120.66,
+        "ParameterName": "PM10",
+        "AQI": 6,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Atascadero",
+        "StateCode": "CA",
+        "Latitude": 35.49,
+        "Longitude": -120.69,
+        "ParameterName": "O3",
+        "AQI": 45,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Atascadero",
+        "StateCode": "CA",
+        "Latitude": 35.49,
+        "Longitude": -120.69,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Atascadero",
+        "StateCode": "CA",
+        "Latitude": 35.49,
+        "Longitude": -120.69,
+        "ParameterName": "PM10",
+        "AQI": 6,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Morro Bay",
+        "StateCode": "CA",
+        "Latitude": 35.36,
+        "Longitude": -120.83,
+        "ParameterName": "O3",
+        "AQI": 43,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Carrizo Plains",
+        "StateCode": "CA",
+        "Latitude": 35.32,
+        "Longitude": -120.0,
+        "ParameterName": "O3",
+        "AQI": 35,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "San Luis Obispo",
+        "StateCode": "CA",
+        "Latitude": 35.27,
+        "Longitude": -120.66,
+        "ParameterName": "PM2.5",
+        "AQI": 11,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "San Luis Obispo",
+        "StateCode": "CA",
+        "Latitude": 35.27,
+        "Longitude": -120.66,
+        "ParameterName": "PM10",
+        "AQI": 10,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Nipomo",
+        "StateCode": "CA",
+        "Latitude": 35.03,
+        "Longitude": -120.48,
+        "ParameterName": "PM2.5",
+        "AQI": 17,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Nipomo",
+        "StateCode": "CA",
+        "Latitude": 35.03,
+        "Longitude": -120.48,
+        "ParameterName": "PM10",
+        "AQI": 14,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yuba City and Marysville",
+        "StateCode": "CA",
+        "Latitude": 39.1389,
+        "Longitude": -121.6175,
+        "ParameterName": "O3",
+        "AQI": 20,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yuba City and Marysville",
+        "StateCode": "CA",
+        "Latitude": 39.1389,
+        "Longitude": -121.6175,
+        "ParameterName": "PM2.5",
+        "AQI": 15,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yuba City and Marysville",
+        "StateCode": "CA",
+        "Latitude": 39.1389,
+        "Longitude": -121.6175,
+        "ParameterName": "PM10",
+        "AQI": 6,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Redding",
+        "StateCode": "CA",
+        "Latitude": 40.5497,
+        "Longitude": -122.3792,
+        "ParameterName": "O3",
+        "AQI": 36,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Redding",
+        "StateCode": "CA",
+        "Latitude": 40.5497,
+        "Longitude": -122.3792,
+        "ParameterName": "PM2.5",
+        "AQI": 6,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Chico",
+        "StateCode": "CA",
+        "Latitude": 39.7575,
+        "Longitude": -121.8422,
+        "ParameterName": "O3",
+        "AQI": 26,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Chico",
+        "StateCode": "CA",
+        "Latitude": 39.7575,
+        "Longitude": -121.8422,
+        "ParameterName": "PM2.5",
+        "AQI": 14,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Chico",
+        "StateCode": "CA",
+        "Latitude": 39.7575,
+        "Longitude": -121.8422,
+        "ParameterName": "PM10",
+        "AQI": 6,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Gridley",
+        "StateCode": "CA",
+        "Latitude": 39.3083,
+        "Longitude": -121.7583,
+        "ParameterName": "PM2.5",
+        "AQI": 9,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Paradise",
+        "StateCode": "CA",
+        "Latitude": 39.7564,
+        "Longitude": -121.6044,
+        "ParameterName": "O3",
+        "AQI": 32,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Paradise",
+        "StateCode": "CA",
+        "Latitude": 39.7564,
+        "Longitude": -121.6044,
+        "ParameterName": "PM2.5",
+        "AQI": 24,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Death Valley National Park",
+        "StateCode": "CA",
+        "Latitude": 36.5092,
+        "Longitude": -116.8481,
+        "ParameterName": "O3",
+        "AQI": 44,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Joshua Tree National Park",
+        "StateCode": "CA",
+        "Latitude": 34.0714,
+        "Longitude": -116.3906,
+        "ParameterName": "O3",
+        "AQI": 39,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Lassen Volcanic National Park",
+        "StateCode": "CA",
+        "Latitude": 40.5403,
+        "Longitude": -121.5764,
+        "ParameterName": "O3",
+        "AQI": 43,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Pinnacles National Monument",
+        "StateCode": "CA",
+        "Latitude": 36.485,
+        "Longitude": -121.1556,
+        "ParameterName": "O3",
+        "AQI": 40,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Sequoia and Kings Canyon National Parks",
+        "StateCode": "CA",
+        "Latitude": 36.4894,
+        "Longitude": -118.8269,
+        "ParameterName": "O3",
+        "AQI": 27,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Sequoia and Kings Canyon National Parks",
+        "StateCode": "CA",
+        "Latitude": 36.4894,
+        "Longitude": -118.8269,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yosemite National Park",
+        "StateCode": "CA",
+        "Latitude": 37.7133,
+        "Longitude": -119.7061,
+        "ParameterName": "O3",
+        "AQI": 40,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yosemite National Park",
+        "StateCode": "CA",
+        "Latitude": 37.7133,
+        "Longitude": -119.7061,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yosemite National Park",
+        "StateCode": "CA",
+        "Latitude": 37.7133,
+        "Longitude": -119.7061,
+        "ParameterName": "PM10",
+        "AQI": 1,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Salinas",
+        "StateCode": "CA",
+        "Latitude": 36.6947,
+        "Longitude": -121.6222,
+        "ParameterName": "O3",
+        "AQI": 39,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Salinas",
+        "StateCode": "CA",
+        "Latitude": 36.6947,
+        "Longitude": -121.6222,
+        "ParameterName": "PM2.5",
+        "AQI": 19,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Mt. Rainier",
+        "StateCode": "WA",
+        "Latitude": 46.7841,
+        "Longitude": -121.7403,
+        "ParameterName": "O3",
+        "AQI": 37,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Santa Cruz",
+        "StateCode": "CA",
+        "Latitude": 36.9858,
+        "Longitude": -121.9931,
+        "ParameterName": "O3",
+        "AQI": 32,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Santa Cruz",
+        "StateCode": "CA",
+        "Latitude": 36.9858,
+        "Longitude": -121.9931,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Hollister",
+        "StateCode": "CA",
+        "Latitude": 36.8442,
+        "Longitude": -121.361,
+        "ParameterName": "O3",
+        "AQI": 36,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Hollister",
+        "StateCode": "CA",
+        "Latitude": 36.8442,
+        "Longitude": -121.361,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Hollister",
+        "StateCode": "CA",
+        "Latitude": 36.8442,
+        "Longitude": -121.361,
+        "ParameterName": "PM10",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "King City",
+        "StateCode": "CA",
+        "Latitude": 36.2092,
+        "Longitude": -121.126,
+        "ParameterName": "O3",
+        "AQI": 34,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "King City",
+        "StateCode": "CA",
+        "Latitude": 36.2092,
+        "Longitude": -121.126,
+        "ParameterName": "PM2.5",
+        "AQI": 3,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "King City",
+        "StateCode": "CA",
+        "Latitude": 36.2092,
+        "Longitude": -121.126,
+        "ParameterName": "PM10",
+        "AQI": 1,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Chehalis",
+        "StateCode": "WA",
+        "Latitude": 46.6641,
+        "Longitude": -122.9673,
+        "ParameterName": "PM2.5",
+        "AQI": 19,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Carmel Valley",
+        "StateCode": "CA",
+        "Latitude": 36.4833,
+        "Longitude": -121.7319,
+        "ParameterName": "O3",
+        "AQI": 39,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Carmel Valley",
+        "StateCode": "CA",
+        "Latitude": 36.4833,
+        "Longitude": -121.7319,
+        "ParameterName": "PM2.5",
+        "AQI": 2,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Davenport",
+        "StateCode": "CA",
+        "Latitude": 37.0119,
+        "Longitude": -122.1933,
+        "ParameterName": "O3",
+        "AQI": 32,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Davenport",
+        "StateCode": "CA",
+        "Latitude": 37.0119,
+        "Longitude": -122.1933,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Carpinteria",
+        "StateCode": "CA",
+        "Latitude": 34.4027,
+        "Longitude": -119.4575,
+        "ParameterName": "O3",
+        "AQI": 25,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Gaviota Coast",
+        "StateCode": "CA",
+        "Latitude": 34.4897,
+        "Longitude": -120.0469,
+        "ParameterName": "O3",
+        "AQI": 37,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Gaviota Coast",
+        "StateCode": "CA",
+        "Latitude": 34.4897,
+        "Longitude": -120.0469,
+        "ParameterName": "PM10",
+        "AQI": 4,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Paradise Road",
+        "StateCode": "CA",
+        "Latitude": 34.5416,
+        "Longitude": -119.7914,
+        "ParameterName": "O3",
+        "AQI": 44,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Santa Ynez",
+        "StateCode": "CA",
+        "Latitude": 34.6083,
+        "Longitude": -120.0747,
+        "ParameterName": "O3",
+        "AQI": 43,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Santa Ynez",
+        "StateCode": "CA",
+        "Latitude": 34.6083,
+        "Longitude": -120.0747,
+        "ParameterName": "PM2.5",
+        "AQI": 10,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Goleta",
+        "StateCode": "CA",
+        "Latitude": 34.4453,
+        "Longitude": -119.8277,
+        "ParameterName": "O3",
+        "AQI": 39,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Goleta",
+        "StateCode": "CA",
+        "Latitude": 34.4453,
+        "Longitude": -119.8277,
+        "ParameterName": "PM2.5",
+        "AQI": 1,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Goleta",
+        "StateCode": "CA",
+        "Latitude": 34.4453,
+        "Longitude": -119.8277,
+        "ParameterName": "PM10",
+        "AQI": 6,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "San Lorenzo Valley",
+        "StateCode": "CA",
+        "Latitude": 37.0881,
+        "Longitude": -122.0844,
+        "ParameterName": "PM2.5",
+        "AQI": 7,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Scotts Valley",
+        "StateCode": "CA",
+        "Latitude": 37.0457,
+        "Longitude": -122.0248,
+        "ParameterName": "PM2.5",
+        "AQI": 7,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Watsonville",
+        "StateCode": "CA",
+        "Latitude": 36.9153,
+        "Longitude": -121.7607,
+        "ParameterName": "O3",
+        "AQI": 32,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Watsonville",
+        "StateCode": "CA",
+        "Latitude": 36.9153,
+        "Longitude": -121.7607,
+        "ParameterName": "PM2.5",
+        "AQI": 0,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Marina and Seaside",
+        "StateCode": "CA",
+        "Latitude": 36.6271,
+        "Longitude": -121.83,
+        "ParameterName": "O3",
+        "AQI": 39,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Marina and Seaside",
+        "StateCode": "CA",
+        "Latitude": 36.6271,
+        "Longitude": -121.83,
+        "ParameterName": "PM2.5",
+        "AQI": 19,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Monterey Peninsula",
+        "StateCode": "CA",
+        "Latitude": 36.6136,
+        "Longitude": -121.9097,
+        "ParameterName": "O3",
+        "AQI": 39,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Monterey Peninsula",
+        "StateCode": "CA",
+        "Latitude": 36.6136,
+        "Longitude": -121.9097,
+        "ParameterName": "PM2.5",
+        "AQI": 19,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Tuolumne County",
+        "StateCode": "CA",
+        "Latitude": 37.962,
+        "Longitude": -120.2392,
+        "ParameterName": "O3",
+        "AQI": 28,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yakima",
+        "StateCode": "WA",
+        "Latitude": 46.5949,
+        "Longitude": -120.5122,
+        "ParameterName": "PM2.5",
+        "AQI": 45,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yakima",
+        "StateCode": "WA",
+        "Latitude": 46.5949,
+        "Longitude": -120.5122,
+        "ParameterName": "PM10",
+        "AQI": 19,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Medford",
+        "StateCode": "OR",
+        "Latitude": 42.3142,
+        "Longitude": -122.8792,
+        "ParameterName": "PM2.5",
+        "AQI": 34,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Clarkston",
+        "StateCode": "WA",
+        "Latitude": 46.4255,
+        "Longitude": -117.0597,
+        "ParameterName": "PM2.5",
+        "AQI": 28,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Colville",
+        "StateCode": "WA",
+        "Latitude": 48.5447,
+        "Longitude": -117.9036,
+        "ParameterName": "PM2.5",
+        "AQI": 70,
+        "Category": {
+            "Number": 2,
+            "Name": "Moderate"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Colville",
+        "StateCode": "WA",
+        "Latitude": 48.5447,
+        "Longitude": -117.9036,
+        "ParameterName": "PM10",
+        "AQI": 85,
+        "Category": {
+            "Number": 2,
+            "Name": "Moderate"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Moses Lake",
+        "StateCode": "WA",
+        "Latitude": 47.1303,
+        "Longitude": -119.2726,
+        "ParameterName": "PM2.5",
+        "AQI": 32,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Wenatchee",
+        "StateCode": "WA",
+        "Latitude": 47.4122,
+        "Longitude": -120.3183,
+        "ParameterName": "PM2.5",
+        "AQI": 23,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Ellensburg",
+        "StateCode": "WA",
+        "Latitude": 46.9936,
+        "Longitude": -120.545,
+        "ParameterName": "PM2.5",
+        "AQI": 12,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Pullman",
+        "StateCode": "WA",
+        "Latitude": 46.7245,
+        "Longitude": -117.1801,
+        "ParameterName": "PM2.5",
+        "AQI": 23,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Twisp",
+        "StateCode": "WA",
+        "Latitude": 48.3645,
+        "Longitude": -120.1211,
+        "ParameterName": "PM2.5",
+        "AQI": 36,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Winthrop",
+        "StateCode": "WA",
+        "Latitude": 48.4772,
+        "Longitude": -120.1906,
+        "ParameterName": "PM2.5",
+        "AQI": 52,
+        "Category": {
+            "Number": 2,
+            "Name": "Moderate"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Leavenworth",
+        "StateCode": "WA",
+        "Latitude": 47.5988,
+        "Longitude": -120.6647,
+        "ParameterName": "PM2.5",
+        "AQI": 12,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Vancouver",
+        "StateCode": "WA",
+        "Latitude": 45.6336,
+        "Longitude": -122.6028,
+        "ParameterName": "PM2.5",
+        "AQI": 33,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Yacolt",
+        "StateCode": "WA",
+        "Latitude": 45.8656,
+        "Longitude": -122.4069,
+        "ParameterName": "PM2.5",
+        "AQI": 3,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Longview",
+        "StateCode": "WA",
+        "Latitude": 46.1427,
+        "Longitude": -122.9556,
+        "ParameterName": "PM2.5",
+        "AQI": 5,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Chelan",
+        "StateCode": "WA",
+        "Latitude": 47.8386,
+        "Longitude": -120.0231,
+        "ParameterName": "PM2.5",
+        "AQI": 25,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Anacortes",
+        "StateCode": "WA",
+        "Latitude": 48.5205,
+        "Longitude": -122.6142,
+        "ParameterName": "O3",
+        "AQI": 21,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Anacortes",
+        "StateCode": "WA",
+        "Latitude": 48.5205,
+        "Longitude": -122.6142,
+        "ParameterName": "PM2.5",
+        "AQI": 17,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Kennewick",
+        "StateCode": "WA",
+        "Latitude": 46.2183,
+        "Longitude": -119.2015,
+        "ParameterName": "PM2.5",
+        "AQI": 15,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Kennewick",
+        "StateCode": "WA",
+        "Latitude": 46.2183,
+        "Longitude": -119.2015,
+        "ParameterName": "PM10",
+        "AQI": 11,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Omak",
+        "StateCode": "WA",
+        "Latitude": 48.3999,
+        "Longitude": -119.519,
+        "ParameterName": "PM2.5",
+        "AQI": 58,
+        "Category": {
+            "Number": 2,
+            "Name": "Moderate"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Spokane Tribe of Spokane Reservation",
+        "StateCode": "WA",
+        "Latitude": 47.8853,
+        "Longitude": -117.9887,
+        "ParameterName": "PM2.5",
+        "AQI": 28,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Makah Indian Tribe of Makah Indian Reservation",
+        "StateCode": "WA",
+        "Latitude": 48.3661,
+        "Longitude": -124.61,
+        "ParameterName": "O3",
+        "AQI": 40,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Makah Indian Tribe of Makah Indian Reservation",
+        "StateCode": "WA",
+        "Latitude": 48.3661,
+        "Longitude": -124.61,
+        "ParameterName": "PM2.5",
+        "AQI": 8,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Confederated Tribes and Bands of Yakama Nations",
+        "StateCode": "WA",
+        "Latitude": 46.3802,
+        "Longitude": -120.3327,
+        "ParameterName": "PM2.5",
+        "AQI": 29,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Coos, Lower Umpqua, and Siuslaw Indians of Oregon",
+        "StateCode": "OR",
+        "Latitude": 43.3819,
+        "Longitude": -124.2639,
+        "ParameterName": "PM2.5",
+        "AQI": 9,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Mammoth Lakes",
+        "StateCode": "CA",
+        "Latitude": 37.6481,
+        "Longitude": -118.9733,
+        "ParameterName": "PM2.5",
+        "AQI": 30,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Mammoth Lakes",
+        "StateCode": "CA",
+        "Latitude": 37.6481,
+        "Longitude": -118.9733,
+        "ParameterName": "PM10",
+        "AQI": 15,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Mono Lake",
+        "StateCode": "CA",
+        "Latitude": 38.0697,
+        "Longitude": -118.9477,
+        "ParameterName": "PM2.5",
+        "AQI": 8,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Mono Lake",
+        "StateCode": "CA",
+        "Latitude": 38.0697,
+        "Longitude": -118.9477,
+        "ParameterName": "PM10",
+        "AQI": 4,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Owens Lake",
+        "StateCode": "CA",
+        "Latitude": 36.4365,
+        "Longitude": -117.9601,
+        "ParameterName": "PM2.5",
+        "AQI": 28,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Owens Lake",
+        "StateCode": "CA",
+        "Latitude": 36.4365,
+        "Longitude": -117.9601,
+        "ParameterName": "PM10",
+        "AQI": 5,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Bishop",
+        "StateCode": "CA",
+        "Latitude": 37.3615,
+        "Longitude": -118.3952,
+        "ParameterName": "O3",
+        "AQI": 37,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Bishop",
+        "StateCode": "CA",
+        "Latitude": 37.3615,
+        "Longitude": -118.3952,
+        "ParameterName": "PM2.5",
+        "AQI": 19,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Bishop",
+        "StateCode": "CA",
+        "Latitude": 37.3615,
+        "Longitude": -118.3952,
+        "ParameterName": "PM10",
+        "AQI": 5,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Grants Pass",
+        "StateCode": "OR",
+        "Latitude": 42.434,
+        "Longitude": -123.348,
+        "ParameterName": "PM2.5",
+        "AQI": 32,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Red Bluff",
+        "StateCode": "CA",
+        "Latitude": 40.1786,
+        "Longitude": -122.2347,
+        "ParameterName": "O3",
+        "AQI": 26,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Red Bluff",
+        "StateCode": "CA",
+        "Latitude": 40.1786,
+        "Longitude": -122.2347,
+        "ParameterName": "PM2.5",
+        "AQI": 15,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "South Lake Tahoe",
+        "StateCode": "CA",
+        "Latitude": 38.9099,
+        "Longitude": -120.0151,
+        "ParameterName": "O3",
+        "AQI": 43,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "South Lake Tahoe",
+        "StateCode": "CA",
+        "Latitude": 38.9099,
+        "Longitude": -120.0151,
+        "ParameterName": "PM2.5",
+        "AQI": 3,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "South Lake Tahoe",
+        "StateCode": "CA",
+        "Latitude": 38.9099,
+        "Longitude": -120.0151,
+        "ParameterName": "PM10",
+        "AQI": 44,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Albany",
+        "StateCode": "OR",
+        "Latitude": 44.6157,
+        "Longitude": -123.0915,
+        "ParameterName": "PM2.5",
+        "AQI": 23,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Baker City",
+        "StateCode": "OR",
+        "Latitude": 44.7882,
+        "Longitude": -117.8446,
+        "ParameterName": "PM2.5",
+        "AQI": 23,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Bend and Redmond",
+        "StateCode": "OR",
+        "Latitude": 44.0639,
+        "Longitude": -121.3126,
+        "ParameterName": "PM2.5",
+        "AQI": 21,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Burns",
+        "StateCode": "OR",
+        "Latitude": 43.5893,
+        "Longitude": -119.0487,
+        "ParameterName": "PM2.5",
+        "AQI": 20,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Cave Junction",
+        "StateCode": "OR",
+        "Latitude": 42.1617,
+        "Longitude": -123.6484,
+        "ParameterName": "PM2.5",
+        "AQI": 54,
+        "Category": {
+            "Number": 2,
+            "Name": "Moderate"
+        }
+    },
+    {
+        "DateObserved": "2023-03-21 ",
+        "HourObserved": 9,
+        "LocalTimeZone": "PST",
+        "ReportingArea": "Corvallis",
+        "StateCode": "OR",
+        "Latitude": 44.5884,
+        "Longitude": -123.2673,
+        "ParameterName": "PM2.5",
+        "AQI": 18,
+        "Category": {
+            "Number": 1,
+            "Name": "Good"
+        }
+    }
+]
