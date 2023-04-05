@@ -137,5 +137,6 @@ dmypy.json
 data/*
 venv
 airflow/logs/*
+airflow/configs/configs.env
 .vscode
 
