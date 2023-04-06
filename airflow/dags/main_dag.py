@@ -8,7 +8,7 @@ default_args = {"owner": "acgallagher"}
 
 
 @dag(
-    dag_id="main_dag_v09.6",
+    dag_id="main_dag_v09.11",
     default_args=default_args,
     start_date=datetime.today(),
     # schedule_interval="5 * * * *",
@@ -31,21 +31,21 @@ def main_dag():
         bash_command="python /opt/airflow/tasks/load_spark_scripts.py",
     )
 
-    transform_station_data = BashOperator(
+    run_monitors_spark_job = BashOperator(
         task_id="run_monitors_spark_job",
         bash_command="python /opt/airflow/tasks/emr_serverless.py \
-            --job-role-arn arn:aws:iam::188237326080:role/aws-service-role/ops.emr-serverless.amazonaws.com/AWSServiceRoleForAmazonEMRServerless \
+            --job-role-arn arn:aws:iam::188237326080:role/AmazonEMR-ExecutionRole-1680804797888 \
             --s3-bucket pct-air-quality \
             --script pctMonitoringStations.py \
-            --input-location s3://pct-air-quality/data/stations/monitoring_station_raw.dat \
-            --output-location s3://pct-air-quality/data/stations/pctMonitoringStations.parquet/",
+            --input-location data/stations/monitoring_station_raw.dat \
+            --output-location data/stations/pctMonitoringStations.parquet/",
     )
 
     (
         extract_monitoring_station_raw
         >> load_monitoring_station_raw_s3
         >> load_spark_scripts
-        >> transform_station_data
+        >> run_monitors_spark_job
     )
 
 

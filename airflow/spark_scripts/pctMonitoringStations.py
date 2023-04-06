@@ -1,7 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
 from pyspark.sql.functions import StructType, col
-import os
 import sys
 
 if __name__ == "__main__":
@@ -29,6 +28,7 @@ if __name__ == "__main__":
             StructField("Forecast Source", StringType(), True),
         ]
     )
+
     station_df = (
         spark.read.format("com.databricks.spark.csv")
         .option("header", "false")

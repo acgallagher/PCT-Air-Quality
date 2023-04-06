@@ -1,6 +1,7 @@
 import gzip
 import boto3
 import argparse
+from dotenv import dotenv_values
 
 
 class EMRServerless:
@@ -22,7 +23,16 @@ class EMRServerless:
         self.application_id = application_id
         self.s3_log_prefix = "emr-serverless-logs"
         self.app_type = "SPARK"  # EMR Serverless also supports jobs of type 'HIVE'
-        self.client = boto3.client("emr-serverless", region_name="us-east-1")
+
+        # load config
+        self.config = dotenv_values("/opt/airflow/configs/configs.env")
+
+        self.client = boto3.client(
+            "emr-serverless",
+            aws_access_key_id=self.config["aws_access_key_id"],
+            aws_secret_access_key=self.config["aws_secret_access_key"],
+            region_name="us-east-1",
+        )
 
     def __str__(self):
         return f"EMR Serverless {self.app_type} Application: {self.application_id}"
@@ -136,7 +146,11 @@ class EMRServerless:
         """
         Access the specified `log_type` Driver log on S3 and return the full log string.
         """
-        s3_client = boto3.client("s3")
+        s3_client = boto3.client(
+            "s3",
+            aws_access_key_id=self.config["aws_access_key_id"],
+            aws_secret_access_key=self.config["aws_secret_access_key"],
+        )
         file_location = f"{self.s3_log_prefix}/applications/{self.application_id}/jobs/{job_run_id}/SPARK_DRIVER/{log_type}.gz"
         try:
             response = s3_client.get_object(Bucket=s3_bucket_name, Key=file_location)
@@ -190,7 +204,7 @@ if __name__ == "__main__":
     emr_serverless = EMRServerless()
 
     print("Creating and starting EMR Serverless Spark App")
-    emr_serverless.create_application("spark-job", "emr-6.6.0")
+    emr_serverless.create_application("spark-job", "emr-6.10.0")
     emr_serverless.start_application()
     print(emr_serverless)
 
@@ -217,3 +231,8 @@ if __name__ == "__main__":
     emr_serverless.stop_application()
     emr_serverless.delete_application()
     print("Done! 👋")
+
+    if job_status.get("state") == "FAILED":
+        raise RuntimeError(
+            f"Spark job {job_run_id} has failed. Check spark script and try again."
+        )
