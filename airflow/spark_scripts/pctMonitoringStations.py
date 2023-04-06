@@ -5,7 +5,7 @@ import sys
 
 if __name__ == "__main__":
 
-    spark = SparkSession.builder.appName("pctMonitoringStations").getOrCreate()
+    spark = SparkSession.builder.appName("run_monitors_spark_job").getOrCreate()
 
     input_path = sys.argv[1]
     output_path = sys.argv[2]
