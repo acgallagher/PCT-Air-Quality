@@ -2,7 +2,7 @@ import boto3
 from dotenv import dotenv_values
 
 # load config
-config = dotenv_values("opt/airflow/configs/configs.env")
+config = dotenv_values("/opt/airflow/configs/configs.env")
 
 
 def load_monitoring_station_raw_s3():

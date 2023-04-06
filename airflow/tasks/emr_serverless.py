@@ -22,7 +22,7 @@ class EMRServerless:
         self.application_id = application_id
         self.s3_log_prefix = "emr-serverless-logs"
         self.app_type = "SPARK"  # EMR Serverless also supports jobs of type 'HIVE'
-        self.client = boto3.client("emr-serverless")
+        self.client = boto3.client("emr-serverless", region_name="us-east-1")
 
     def __str__(self):
         return f"EMR Serverless {self.app_type} Application: {self.application_id}"
@@ -159,29 +159,50 @@ def parse_args():
         help="Amazon S3 Bucket to use for logs and job output",
         required=True,
     )
+    required_named.add_argument(
+        "--script",
+        help="Spark script used for processing data",
+        required=True,
+    )
+    required_named.add_argument(
+        "--input-location",
+        help="Data to be inputted to the spark job. Ex.'data/stations/monitoring_station_raw.dat",
+        required=True,
+    )
+    required_named.add_argument(
+        "--output-location",
+        help="Output location for the data produced by the spark job. Ex.'data/stations/pctMonitoringStations.parquet/'",
+        required=True,
+    )
     return parser.parse_args()
 
 
 if __name__ == "__main__":
-    # Require s3 bucket and job role to be provided
+    # Require s3 bucket, job role to be provided
     args = parse_args()
     serverless_job_role_arn = args.job_role_arn
     s3_bucket_name = args.s3_bucket
+    script = args.script
+    input_location = args.input_location
+    output_location = args.output_location
 
     # Create and start a new EMRServerless Spark Application
     emr_serverless = EMRServerless()
 
     print("Creating and starting EMR Serverless Spark App")
-    emr_serverless.create_application("sample-spark-job", "emr-6.6.0")
+    emr_serverless.create_application("spark-job", "emr-6.6.0")
     emr_serverless.start_application()
     print(emr_serverless)
 
     # Run (and wait for) a Spark job
     print("Submitting new Spark job")
     job_run_id = emr_serverless.run_spark_job(
-        script_location="s3://us-east-1.elasticmapreduce/emr-containers/samples/wordcount/scripts/wordcount.py",
+        script_location=f"s3://pct-air-quality/spark_scripts/{script}",
         job_role_arn=serverless_job_role_arn,
-        arguments=[f"s3://{s3_bucket_name}/emr-serverless/output"],
+        arguments=[
+            f"s3://pct-air-quality/{input_location}",
+            f"s3://pct-air-quality/{output_location}",
+        ],
         s3_bucket_name=s3_bucket_name,
     )
     job_status = emr_serverless.get_job_run(job_run_id)
